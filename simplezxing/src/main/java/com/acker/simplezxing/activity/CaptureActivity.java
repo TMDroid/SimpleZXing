@@ -53,7 +53,7 @@ import com.google.zxing.Result;
  * @description modified
  */
 
-public final class CaptureActivity extends Activity implements SurfaceHolder.Callback {
+public class CaptureActivity extends Activity implements SurfaceHolder.Callback {
 
     public static final int REQ_CODE = 0xF0F0;
     public static final String KEY_NEED_BEEP = "NEED_BEEP";
